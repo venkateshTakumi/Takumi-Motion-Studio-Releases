@@ -1,6 +1,6 @@
 {
-    "version":  "1.0.1",
-    "url":  "https://github.com/venkateshTakumi/Takumi-Motion-Studio-Releases/releases/download/v1.0.1/TakumiMotionStudio_Setup.exe",
-    "notes":  "Bug fixes and stability improvements.",
-    "sha256":  "c33385444c60651f3e6e05f29114e3587684a31f27b443bd10a0579a7969c9f9"
+    "version":  "1.1.0",
+    "url":  "https://github.com/venkateshTakumi/Takumi-Motion-Studio-Releases/releases/download/v1.1.0/TakumiMotionStudio_Setup.exe",
+    "notes":  "Responsive layout for the main window and live charts, new high-performance Qwt-based plotting, improved CAN/Dyno connection status handling and port auto-detection, and gauge/splitter polish.",
+    "sha256":  "4bd8fbfa877e39f3992224d0260433e3024dc93c793a7773493966db8716dc13"
 }
