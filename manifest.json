@@ -1,6 +1,6 @@
 {
-    "version":  "1.3.0",
-    "url":  "https://github.com/venkateshTakumi/Takumi-Motion-Studio-Releases/releases/download/v1.3.0/TakumiMotionStudio_Setup.exe",
-    "notes":  "CAN receive worker overhaul, fault code updates, Japanese localization refresh, UI improvements.",
-    "sha256":  "e5a4151be5f4ad2391034ce1649d44f43758d1af5b375dae42ea757d02d7d3e6"
+    "version":  "1.4.0",
+    "url":  "https://github.com/venkateshTakumi/Takumi-Motion-Studio-Releases/releases/download/v1.4.0/TakumiMotionStudio_Setup.exe",
+    "notes":  "Demo mode (simulated drive) and pass/fail limits in PDF reports, new Home tabs layout, UI/UX overhaul with toasts and status chips, 6x faster live charts, bus-off auto-recovery, crash and theme-switch fixes, expanded Japanese translations.",
+    "sha256":  "08cc3766307a435160f3e4587bf923777123f70620082f206c37ec04b79c8f5c"
 }
