@@ -1,6 +1,6 @@
 {
-    "version":  "1.4.0",
-    "url":  "https://github.com/venkateshTakumi/Takumi-Motion-Studio-Releases/releases/download/v1.4.0/TakumiMotionStudio_Setup.exe",
-    "notes":  "Demo mode (simulated drive) and pass/fail limits in PDF reports, new Home tabs layout, UI/UX overhaul with toasts and status chips, 6x faster live charts, bus-off auto-recovery, crash and theme-switch fixes, expanded Japanese translations.",
-    "sha256":  "08cc3766307a435160f3e4587bf923777123f70620082f206c37ec04b79c8f5c"
+    "version":  "1.5.0",
+    "url":  "https://github.com/venkateshTakumi/Takumi-Motion-Studio-Releases/releases/download/v1.5.0/TakumiMotionStudio_Setup.exe",
+    "notes":  "CAN/Connection tab icon redesigns, Japanese localization refresh, new Safety Limits (max motor speed) setting, Demo drive restricted to Developer mode, DBC Manager UI cleanup.",
+    "sha256":  "100c731848bd192df82ccee82c98d2bb214b6e5d9de138fe5e492e92666b462f"
 }
