@@ -1,6 +1,6 @@
 {
-    "version":  "1.7.0",
-    "url":  "https://github.com/venkateshTakumi/Takumi-Motion-Studio-Releases/releases/download/v1.7.0/TakumiMotionStudio_Setup.exe",
-    "notes":  "Trace import: the decoding progress box no longer stays on screen behind the result. No emoji or font symbols anywhere: status line, fault indicator, notifications, buttons, PDF report and the setup wizard use icons drawn by the app.",
-    "sha256":  "210422e3ec3ea813bd66dbfb1c5d2a35ebc72e0ba2d56e39adc766b23d091580"
+    "version":  "1.8.0",
+    "url":  "https://github.com/venkateshTakumi/Takumi-Motion-Studio-Releases/releases/download/v1.8.0/TakumiMotionStudio_Setup.exe",
+    "notes":  "See the release notes for what changed in this version.",
+    "sha256":  "3d6e233ecb8bb8732207956a69f36919a825bf9dee2d33e49587c9de72425576"
 }
