@@ -1,6 +1,6 @@
 {
-    "version":  "1.8.1",
-    "url":  "https://github.com/venkateshTakumi/Takumi-Motion-Studio-Releases/releases/download/v1.8.1/TakumiMotionStudio_Setup.exe",
-    "notes":  "Fixes: false Motor Not Responding warning on reverse speed; asks to install the PCAN driver when it is missing; simulated plots in Developer mode only; blank-window redraw on some laptops.",
-    "sha256":  "8ea92c169cbc96997574f6efec82b968c26999ea6a48c89a3bfedda0f74596a7"
+    "version":  "1.8.2",
+    "url":  "https://github.com/venkateshTakumi/Takumi-Motion-Studio-Releases/releases/download/v1.8.2/TakumiMotionStudio_Setup.exe",
+    "notes":  "Dyno Load assist (boosted setpoint, learns this dyno, used by scripts) and Load button; dyno temperatures read again; dyno/CAN link loss stops the motor; Analysis range slider, 3D plot, drag-to-merge, value tooltip; Clear clears everything; RX/TX Stop logging; faster DBC loader; remembers ports and folders; update download retries with progress; one app instance; fixes.",
+    "sha256":  "76b94ab28ac520669305d3c9e00a8f50bfd144d667072892339e0bcf42840991"
 }
