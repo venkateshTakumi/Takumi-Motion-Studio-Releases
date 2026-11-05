@@ -1,6 +1,6 @@
 {
-    "version":  "1.8.4",
-    "url":  "https://github.com/venkateshTakumi/Takumi-Motion-Studio-Releases/releases/download/v1.8.4/TakumiMotionStudio_Setup.exe",
-    "notes":  "Save a PDF test report and the CAN trace after a script, in a folder named by device serial. Analysis: trace playback (0.1x-20x), Zoom / Pan / Cursor tools, touchpad pinch and swipe. Fixes the screen going partly blank after Reset on some laptops. Sharper icons on large and HDMI screens. Shorter update message.",
-    "sha256":  "3f29e43d426006a7ed0b396077939bf1a021fec753464c2ce036d25e100b0f95"
+    "version":  "1.8.5",
+    "url":  "https://github.com/venkateshTakumi/Takumi-Motion-Studio-Releases/releases/download/v1.8.5/TakumiMotionStudio_Setup.exe",
+    "notes":  "Reports never show fault byte/bit codes or decoded flag bits, and stay in the app\u0027s language (no Japanese DBC text in English reports). Fixes a run type showing as question marks in Japanese. Update checks see a new release immediately.",
+    "sha256":  "57dd5b44a65a3926e817ff867eccd27196630d8ca7a7e323912e1e660254636d"
 }
