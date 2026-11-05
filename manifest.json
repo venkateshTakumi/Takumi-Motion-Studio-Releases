@@ -1,6 +1,6 @@
 {
-    "version":  "1.8.6",
-    "url":  "https://github.com/venkateshTakumi/Takumi-Motion-Studio-Releases/releases/download/v1.8.6/TakumiMotionStudio_Setup.exe",
-    "notes":  "Analysis: one Zoom / Pan / Cursor tool dropdown (Zoom by default) instead of separate buttons; zoom with the + / - keys, wheel, pinch or Fit. The range label no longer overlaps the slider.",
-    "sha256":  "076dc71b47119924b5a1dbf746aaad18f4ad5e5864672332e9443057ef4d9f28"
+    "version":  "1.8.7",
+    "url":  "https://github.com/venkateshTakumi/Takumi-Motion-Studio-Releases/releases/download/v1.8.7/TakumiMotionStudio_Setup.exe",
+    "notes":  "Choose the CAN adapter in App Settings \u003e General \u003e CAN Adapter: PEAK PCAN (default), Vector, SYS TEC, TinyCAN, J2534 PassThru or all installed. Each needs its maker\u0027s driver. Automatic bus-off recovery for every adapter brand.",
+    "sha256":  "fcc0d92f5a7d7b90574a7f82bc895583f1411fda69a8efe44780ef8bb292045e"
 }
