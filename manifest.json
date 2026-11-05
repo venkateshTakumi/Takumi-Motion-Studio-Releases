@@ -1,6 +1,6 @@
 {
-    "version":  "1.8.5",
-    "url":  "https://github.com/venkateshTakumi/Takumi-Motion-Studio-Releases/releases/download/v1.8.5/TakumiMotionStudio_Setup.exe",
-    "notes":  "Reports never show fault byte/bit codes or decoded flag bits, and stay in the app\u0027s language (no Japanese DBC text in English reports). Fixes a run type showing as question marks in Japanese. Update checks see a new release immediately.",
-    "sha256":  "57dd5b44a65a3926e817ff867eccd27196630d8ca7a7e323912e1e660254636d"
+    "version":  "1.8.6",
+    "url":  "https://github.com/venkateshTakumi/Takumi-Motion-Studio-Releases/releases/download/v1.8.6/TakumiMotionStudio_Setup.exe",
+    "notes":  "Analysis: one Zoom / Pan / Cursor tool dropdown (Zoom by default) instead of separate buttons; zoom with the + / - keys, wheel, pinch or Fit. The range label no longer overlaps the slider.",
+    "sha256":  "076dc71b47119924b5a1dbf746aaad18f4ad5e5864672332e9443057ef4d9f28"
 }
