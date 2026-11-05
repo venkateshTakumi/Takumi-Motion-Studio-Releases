@@ -1,6 +1,6 @@
 {
-    "version":  "1.8.7",
-    "url":  "https://github.com/venkateshTakumi/Takumi-Motion-Studio-Releases/releases/download/v1.8.7/TakumiMotionStudio_Setup.exe",
-    "notes":  "Choose the CAN adapter in App Settings \u003e General \u003e CAN Adapter: PEAK PCAN (default), Vector, SYS TEC, TinyCAN, J2534 PassThru or all installed. Each needs its maker\u0027s driver. Automatic bus-off recovery for every adapter brand.",
-    "sha256":  "fcc0d92f5a7d7b90574a7f82bc895583f1411fda69a8efe44780ef8bb292045e"
+    "version":  "1.8.8",
+    "url":  "https://github.com/venkateshTakumi/Takumi-Motion-Studio-Releases/releases/download/v1.8.8/TakumiMotionStudio_Setup.exe",
+    "notes":  "Japanese: kanji icons are on whenever Japanese is chosen. Dyno Control beside CAN Control (Live Motor Parameters popped out) no longer cut off on smaller laptop screens. Clearer wording when the CAN link is lost.",
+    "sha256":  "6c16b66645a7f99dd4b9de18002c5555b68cee2f9809722e3f1c0bf15dc61ceb"
 }
