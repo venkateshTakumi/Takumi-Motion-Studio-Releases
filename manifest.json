@@ -1,6 +1,6 @@
 {
     "version":  "1.8.8",
     "url":  "https://github.com/venkateshTakumi/Takumi-Motion-Studio-Releases/releases/download/v1.8.8/TakumiMotionStudio_Setup.exe",
-    "notes":  "Japanese: kanji icons are on whenever Japanese is chosen. Dyno Control beside CAN Control (Live Motor Parameters popped out) no longer cut off on smaller laptop screens. Clearer wording when the CAN link is lost.",
-    "sha256":  "6c16b66645a7f99dd4b9de18002c5555b68cee2f9809722e3f1c0bf15dc61ceb"
+    "notes":  "Japanese: kanji icons are on whenever Japanese is chosen. Dyno Control fits on smaller laptop screens. The window repairs itself if parts of it go blank. Clearer wording when the CAN link is lost.",
+    "sha256":  "232e27f7973a0809abd5c5d91e9a6aa31cb9ad85bb931199e80abe6555adf72e"
 }
