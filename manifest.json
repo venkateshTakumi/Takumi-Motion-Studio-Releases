@@ -1,6 +1,6 @@
 {
-    "version":  "1.8.8",
-    "url":  "https://github.com/venkateshTakumi/Takumi-Motion-Studio-Releases/releases/download/v1.8.8/TakumiMotionStudio_Setup.exe",
-    "notes":  "Japanese: kanji icons are on whenever Japanese is chosen. Dyno Control fits on smaller laptop screens. The window repairs itself if parts of it go blank. Clearer wording when the CAN link is lost.",
-    "sha256":  "6c0e3ef27ded389692a60e47b6b98c9cbd439d12f7a53c8413bc59159ba85d2f"
+    "version":  "1.8.9",
+    "url":  "https://github.com/venkateshTakumi/Takumi-Motion-Studio-Releases/releases/download/v1.8.9/TakumiMotionStudio_Setup.exe",
+    "notes":  "The maximum motor speed can now be raised above 6500 rpm in App Settings \u003e General \u003e Safety limits (up to 20000 rpm, after a confirmation). Speed gauges follow the setting. Dialogs and message boxes are no longer cut off, and the update window no longer turns black while the app restarts.",
+    "sha256":  "12c29eaf1ce98d1b0072ee5a230c5b0dbd7d41527f441e7ad375135a05ea6550"
 }
